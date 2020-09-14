@@ -1,0 +1,69 @@
+.navBarWrapper{
+    width: 60%;
+    margin-left: 20%;
+    border: 1px solid black;
+    padding: 50px;
+   
+}
+.buttonCont{
+display: flex;
+}
+.loginButton{
+   
+      flex: 1px;
+      background-color: white;
+      padding: 20px;
+      font-size: 30px;
+}
+.loginFormWrapper{
+    margin-left:25%;
+    margin-top:100px;
+}
+.loginorRegisterButton{
+    padding: 20px 40px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.emailWrapper{
+    display: flex;
+  border: 1px solid black;
+  padding:10px;
+
+}
+h4 {
+    flex: 1px;
+   
+}
+img {
+    border-radius: 50%;
+    height: 100px;
+  }
+.CardWrapper{
+    border: 1px solid black;
+   
+    padding: 30px;
+    margin-top: 20px;
+  margin-left:-220px;
+ 
+}
+.logoutBtn{
+    padding: 20px 40px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.body{
+    display: flex;
+}
+.CardWrapper>div{
+    
+        margin-left: 20px;
+      
+}
+.DashBoardCont{
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 0px 20px;
+    margin-left:-150px;
+}
