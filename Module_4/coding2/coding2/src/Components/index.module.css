@@ -1,0 +1,50 @@
+.cardWrapper{
+    display: flex;
+  border: 1px solid black;
+padding:20px;
+  margin-top: 20px;
+   
+}
+.cardWrapper>*{
+    flex:1px;
+   
+}
+
+.cardMainWrapper{
+    width:70%;
+    margin-left:15%;
+    border: 1px solid black;
+    padding:10px;
+}
+.classGreen{
+    border-radius: 1000px;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    margin-top:20px;
+    margin-left:100px;
+}
+.classRed{
+    border-radius: 1000px;
+    height: 50px;
+    width: 50px;
+    background-color:red;
+    margin-top:20px;
+    margin-left:100px;
+}
+.mainCont{
+    display: flex;
+  
+}
+.mainCont>div{
+    flex:1px;
+    border: 1px solid black;
+    padding:30px;
+}
+input{
+    padding:10px;
+    margin-top:10px;
+}
+select{
+    margin-top: 10px;
+}
